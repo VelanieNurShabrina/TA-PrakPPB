@@ -1,0 +1,202 @@
+{
+    "splash": {
+        "appName": "valshop"
+    },
+    "currency": "₺",
+    "error": {
+        "error": "Hata",
+        "emptyField": "*Bu alan zorunludur",
+        "shortEntry": "*En az 6 karakter girilmelidir"
+    },
+    "login": {
+        "buttonText": "Giriş Yap",
+        "topTitle": "Giriş Yap",
+        "topMessage": "Tekrar hoş geldiniz, devam etmek için lütfen oturum açın",
+        "tfieldUnameHint": "Kullanıcı Adı",
+        "tfieldPassHint": "Şifre",
+        "forgot": "Şifremi unuttum?",
+        "haveAccount": "Hesabınız yok mu? ",
+        "register": " +Kayıt"
+    },
+    "register": {
+        "buttonText": "Kayıt Ol",
+        "topTitle": "Kayıt Ol",
+        "topMessage": "Tekrar hoş geldiniz, devam etmek için lütfen kayıt olun",
+        "tfieldNameHint": "Ad",
+        "tfieldEmailHint": "Email",
+        "tfieldPassHint": "Şifre",
+        "tfieldPass2Hint": "Şifre Tekrar",
+        "haveAccount": "Hesabınız var mı? ",
+        "login": " +Giriş Yap"
+    },
+    "forgot": {
+        "buttonText": "Onayla",
+        "button2Text": "Vazgeç",
+        "topTitle": "Şifremi Unuttum",
+        "topMessage": "Kayıtlı e-posta adresinize bir şifre sıfırlama bağlantısı gönderin",
+        "tfieldEmailHint": "Email"
+    },
+    "verification": {
+        "topTitle": "Email Doğrulama",
+        "topMessage": "Mailinize gönderdiğimiz kodu girin.",
+        "receiveCode": "Kod almadınız mı?",
+        "resend": " +Tekrar Gönder",
+        "inCorrect": "Pin Yanlış..!"
+    },
+    "dashboard": {
+        "bottomNav": {
+            "bNavHome": "Anasayfa",
+            "bNavCart": "Sepet",
+            "bNavFav": "Favoriler",
+            "bNavAcc": "Hesap"
+        }
+    },
+    "home": {
+        "search": "Ürün, kategori, marka ara...",
+        "category": {
+            "catAll": "Tümü",
+            "catElc": "Elektronik",
+            "catJew": "Takı / Mücevherat",
+            "catMen": "Erkek Giyim",
+            "catWom": "Kadın Giyim"
+        },
+        "productDet": {
+            "details": "Detaylar",
+            "review": "Yorum",
+            "reviews": "Yorumlar",
+            "color": "Renk",
+            "size": "Boyut",
+            "price": "FİYAT",
+            "buttonText": "Sepete Ekle"
+        }
+    },
+    "cart": {
+        "topTitle": "Sepetim",
+        "emptyTitle": "Sepet Boş",
+        "buttonText": "ÖDEME YAP",
+        "subTotal": "Ara Toplam",
+        "tax": "Vergiler",
+        "discCode": "İndirim Kodunu Girin",
+        "price": "ÖDENECEK TUTAR",
+        "alert": {
+            "title": "Silme Onayı",
+            "content": "Bu ürünü silmek istediğinizden emin misiniz?",
+            "buttonText": "Sil",
+            "button2Text": "Vazgeç"
+        }, 
+        "checkout": {
+            "title": "Ödeme",
+            "delivery": {
+                "title": "Teslimat",
+                "opt1": {
+                    "title": "Standart Teslimat",
+                    "content": "Sipariş 3-5 iş günü arasında teslim edilecektir"
+                },
+                "opt2": {
+                    "title": "Ertesi Gün Teslimat",
+                    "content": "Siparişinizi 18:00'a kadar verin, ürünleriniz ertesi gün teslim edilsin"
+                },
+                "opt3": {
+                    "title": "Belirlenen Teslimat",
+                    "content": "Takvimden belirli bir tarih seçin, siparişiniz seçilen tarihte teslim edilecektir"
+                }
+            },
+            "adress": {
+                "title": "Adres",
+                "opt1": {
+                    "title": "Ev",
+                    "content": "76614 Gülşen Sokağı"
+                },
+                "opt2": {
+                    "title": "İş",
+                    "content": "555 Pierstorff Kavşağı"
+                },
+                "opt3": {
+                    "title": "Diğer",
+                    "content": "3848 Farmco Geçişi"
+                }
+            },
+            "payment": {
+                "title": "Ödeme",
+                "saveCard": "Bu kart ayrıntılarını kaydet"
+            },
+            "success": {
+                "title": "Başarılı",
+                "message": "Ödeme Başarılı"
+            },
+            "buttonText": "Devam",
+            "button2Text": "İptal"
+        }
+    },
+    "favorites": {
+        "topTitle": "Favoriler",
+        "emptyTitle": "Favoriler Boş",
+        "alert": {
+            "title": "Silme Onayı",
+            "content": "Bu ürünü silmek istediğinizden emin misiniz?",
+            "buttonText": "Sil",
+            "button2Text": "Vazgeç"
+        }
+    },
+    "account": {
+        "topTitle": "Hesabım",
+        "demoUser": "Demo Kullanıcı",
+        "demoMail": "demo_kullanici@gmail.com",
+        "action": {
+            "editProfile": {
+                "title": "Profili Düzenle",
+                "buttonText": "Kaydet",
+                "tfieldEmailHint": "Email",
+                "tfieldPassHint": "Şifre",
+                "tfieldPass2Hint": "Şifre Tekrar"
+            },
+            "shipping": "Gönderim Adresi",
+            "order": "Siparişler",
+            "trackOrder": {
+                "title": "Siparişi Takip Et",
+                "emptyTitle": "Siparişiniz Yok"
+            },
+            "cards": {
+                "title": "Kartlar",
+                "buttonText": "YENİ",
+                "editCard": {
+                    "title": "Kart Düzenle",
+                    "buttonText": "Kaydet",
+                    "button2Text": "Vazgeç",
+                    "tfieldCardNoHint": "Kart Numarası",
+                    "tfieldDateHint": "Son Kull. Tar.",
+                    "tfieldCVVHint": "CVV",
+                    "tfieldCardHolderHint": "Kart Sahibi"
+                }
+            },
+            "notif": "Bildirimler",
+            "appSet": {
+                "title": "Ayarlar",
+                "viewOption": {
+                    "title": "Görüntüleme",
+                    "language": "Dil",
+                    "darkMode": "Koyu Mod",
+                    "lightMode": "Açık Mod"
+                },
+                "security": {
+                    "title": "Güvenlik",
+                    "changePass": "Şifreyi Değiştir",
+                    "fingerprint": "Parmak İzi Kullan"
+                },
+                "other": {
+                    "title": "Diğer",
+                    "versionControl": "Uygulama Sürüm Kontrolü",
+                    "manageAccount": "Hesabı Yönet",
+                    "about": "valshop Hakkında"
+                },
+                "policies": {
+                    "title": "Politikalar",
+                    "priAndpol": "Gizlilik ve Politika",
+                    "terms": "Hizmet Koşulları",
+                    "help": "Yardım ve Geri Bildirim"
+                }
+            },
+            "logout": "Oturumu Kapat"
+        }
+    }
+}

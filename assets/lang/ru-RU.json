@@ -1,0 +1,202 @@
+{
+  "splash": {
+    "appName": "valshop"
+  },
+  "currency": "₽",
+  "error": {
+    "error": "Ошибка",
+    "emptyField": "*Это поле обязательно для заполнения",
+    "shortEntry": "*Необходимо ввести не менее 6 символов"
+  },
+  "login": {
+    "buttonText": "Войти",
+    "topTitle": "Войти",
+    "topMessage": "Добро пожаловать обратно, пожалуйста, войдите, чтобы продолжить",
+    "tfieldUnameHint": "Введите имя пользователя",
+    "tfieldPassHint": "Введите пароль",
+    "forgot": "Забыли пароль?",
+    "haveAccount": "У вас нет учетной записи? ",
+    "register": " +Регистрация"
+  },
+  "register": {
+    "buttonText": "Регистрация",
+    "topTitle": "Регистрация",
+    "topMessage": "Добро пожаловать обратно, пожалуйста, зарегистрируйтесь, чтобы продолжить",
+    "tfieldNameHint": "Введите имя",
+    "tfieldEmailHint": "Введите адрес электронной почты",
+    "tfieldPassHint": "Введите пароль",
+    "tfieldPass2Hint": "Введите пароль еще раз",
+    "haveAccount": "У вас есть аккаунт? ",
+    "login": " +Логин"
+  },
+  "forgot": {
+    "buttonText": "Подтверждать",
+    "button2Text": "Отмена",
+    "topTitle": "Забыли пароль",
+    "topMessage": "Отправить вам зарегистрированное электронное письмо вам ссылку для сброса пароля",
+    "tfieldEmailHint": "Введите адрес электронной почты"
+  },
+  "verification": {
+    "topTitle": "Подтверждение электронной почты",
+    "topMessage": "Введите код, который мы отправили на ваш e-mail.",
+    "receiveCode": "Не получили код? ",
+    "resend": " +Повторная отправка",
+    "inCorrect": "Пин неправильный..!"
+  },
+  "dashboard": {
+    "bottomNav": {
+      "bNavHome": "Дом",
+      "bNavCart": "Телега",
+      "bNavFav": "Избранное",
+      "bNavAcc": "Счет"
+    }
+  },
+  "home": {
+    "search": "Поиск товара, категории, бренда...",
+    "category": {
+      "catAll": "Все",
+      "catElc": "Электроника",
+      "catJew": "Ювелирные изделия",
+      "catMen": "Мужская одежда",
+      "catWom": "Женская одежда"
+    },
+    "productDet": {
+      "details": "Подробности",
+      "review": "Отзывов",
+      "reviews": "Отзывов",
+      "color": "Цвет",
+      "size": "Размер",
+      "price": "ЦЕНА",
+      "buttonText": "Добавлять"
+    }
+  },
+  "cart": {
+    "topTitle": "Моя корзина",
+    "emptyTitle": "Пустая корзина",
+    "buttonText": "КОНТРОЛЬ",
+    "subTotal": "Суб-итог",
+    "tax": "Налог",
+    "discCode": "Введите код скидки",
+    "price": "ЦЕНА",
+    "alert": {
+      "title": "Удалить подтверждение",
+      "content": "Вы уверены, что хотите удалить этот продукт?",
+      "buttonText": "Удалить",
+      "button2Text": "Отмена"
+    },
+    "checkout": {
+      "title": "Оформить заказ",
+      "delivery": {
+        "title": "Доставка",
+        "opt1": {
+          "title": "Стандартная поставка",
+          "content": "Заказ будет доставлен в течение 3-5 рабочих дней"
+        },
+        "opt2": {
+          "title": "Доставка на следующий день",
+          "content": "Разместите заказ до 18:00, и ваши товары будут доставлены на следующий день"
+        },
+        "opt3": {
+          "title": "Назначенная доставка",
+          "content": "Выберите конкретную дату из календаря, и заказ будет доставлен в выбранную дату"
+        }
+      },
+      "adress": {
+        "title": "Адрес",
+        "opt1": {
+          "title": "Дом",
+          "content": "76614 Гулсет Лейн"
+        },
+        "opt2": {
+          "title": "Работа",
+          "content": "555 Pierstorff Junction"
+        },
+        "opt3": {
+          "title": "Другое",
+          "content": "Перекресток Фармко, 3848"
+        }
+      },
+      "payment": {
+        "title": "Платеж",
+        "saveCard": "Сохранить данные этой карты"
+      },
+      "success": {
+        "title": "Успех",
+        "message": "Платеж прошел успешно"
+      },
+      "buttonText": "Продолжить",
+      "button2Text": "Отмена"
+    }
+  },
+  "favorites": {
+    "topTitle": "Избранное",
+    "emptyTitle": "Пустое избранное",
+    "alert": {
+      "title": "Удалить подтверждение",
+      "content": "Вы уверены, что хотите удалить этот продукт?",
+      "buttonText": "Удалить",
+      "button2Text": "Отмена"
+    }
+  },
+  "account": {
+    "topTitle": "Счет",
+    "demoUser": "Демо-пользователь",
+    "demoMail": "demo_user@gmail.com",
+    "action": {
+      "editProfile": {
+        "title": "Редактировать профиль",
+        "buttonText": "Спасать",
+        "tfieldEmailHint": "Введите адрес электронной почты",
+        "tfieldPassHint": "Введите пароль",
+        "tfieldPass2Hint": "Введите пароль еще раз"
+      },
+      "shipping": "Адрес доставки",
+      "order": "История заказов",
+      "trackOrder": {
+        "title": "Отследить заказ",
+        "emptyTitle": "Нет заказа"
+      },
+      "cards": {
+        "title": "Карты",
+        "buttonText": "Новые функции",
+        "editCard": {
+          "title": "Редактировать карточку",
+          "buttonText": "Спасать",
+          "button2Text": "Отмена",
+          "tfieldCardNoHint": "Номер карты",
+          "tfieldDateHint": "Дата истечения срока действия",
+          "tfieldCVVHint": "ЦПВ",
+          "tfieldCardHolderHint": "Держатель карты"
+        }
+      },
+      "notif": "Уведомления",
+      "appSet": {
+        "title": "Настройки",
+        "viewOption": {
+          "title": "Вариант просмотра",
+          "language": "Язык",
+          "darkMode": "Темный режим",
+          "lightMode": "Легкий режим"
+        },
+        "security": {
+          "title": "Безопасность",
+          "changePass": "Изменить пароль",
+          "fingerprint": "Использовать отпечаток пальца"
+        },
+        "other": {
+          "title": "Другое",
+          "versionControl": "Контроль версий приложения",
+          "manageAccount": "Управление аккаунтом",
+          "about": "O ValShop"
+        },
+        "policies": {
+          "title": "Политики",
+          "priAndpol": "Конфиденциальность и политика",
+          "terms": "Условия использования",
+          "help": "Помощь и обратная связь"
+        }
+      },
+      "logout": "Выходить"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+    "splash": {
+        "appName": "ValShop"
+    },
+    "currency": "$",
+    "error": {
+        "error": "Error Alert",
+        "emptyField": "*This column must be filled in",
+        "shortEntry": "*A minimum of 6 characters needs to be input"
+    },
+    "login": {
+        "buttonText": "Sign In",
+        "topTitle": "Sign In",
+        "topMessage": "Welcome back! Kindly log in to proceed",
+        "tfieldUnameHint": "Enter your username",
+        "tfieldPassHint": "Enter your password",
+        "forgot": "Forgot password?",
+        "haveAccount": "You don't have account? ",
+        "register": "Let`s Register"
+    },
+    "register": {
+        "buttonText": "Sign Up",
+        "topTitle": "Sign Up",
+        "topMessage": "Welcome back! Kindly log up to proceed",
+        "tfieldNameHint": "Enter your name",
+        "tfieldEmailHint": "Enter your email",
+        "tfieldPassHint": "Enter your password",
+        "tfieldPass2Hint": "Enter your password again",
+        "haveAccount": "Do you have account? ",
+        "login": " Login"
+    },
+    "forgot": {
+        "buttonText": "Confirm",
+        "button2Text": "Cancel",
+        "topTitle": "Forgot Password",
+        "topMessage": "We will email you a link to reset your password using the registered email address",
+        "tfieldEmailHint": "Enter your email"
+    },
+    "verification": {
+        "topTitle": "Email Verification",
+        "topMessage": "Input the code we delivered to your email",
+        "receiveCode": "Haven't received the code? ",
+        "resend": " Resend",
+        "inCorrect": "Pin is incorrect!"
+    },
+    "dashboard": {
+        "bottomNav": {
+            "bNavHome": "Home",
+            "bNavCart": "Cart",
+            "bNavFav": "Favorites",
+            "bNavAcc": "Account"
+        }
+    },
+    "home": {
+        "search": "Search product, category, brand...",
+        "category": {
+            "catAll": "All",
+            "catElc": "Electonics",
+            "catJew": "Jewelery",
+            "catMen": "Men's Clothing",
+            "catWom": "Women's Clothing"
+        },
+        "productDet": {
+            "details": "Details",
+            "review": "REVIEW",
+            "reviews": "REVIEWS",
+            "color": "Color",
+            "size": "Size",
+            "price": "PRICE",
+            "buttonText": "ADD"
+        }
+    },
+    "cart": {
+        "topTitle": "Shopping Cart",
+        "emptyTitle": "Empty Cart",
+        "buttonText": "CHECKOUT",
+        "subTotal": "Sub Total",
+        "tax": "Tax",
+        "discCode": "Enter Discount Code",
+        "price": "PRICE",
+        "alert": {
+            "title": "Delete Confirmation",
+            "content": "Are you sure you want to delete this product?",
+            "buttonText": "Delete",
+            "button2Text": "Cancel"
+        },
+        "checkout": {
+            "title": "Checkout",
+            "delivery": {
+                "title": "Shipping",
+                "opt1": {
+                    "title": "Standart Shipping",
+                    "content": "Delivery is expected within 3-5 business days."
+                },
+                "opt2": {
+                    "title": "Next Day Shipping",
+                    "content": "Submit your order by 6 pm, and your items will arrive the following day."
+                },
+                "opt3": {
+                    "title": "Scheduled Shipping",
+                    "content": "Pick a particular date from the calendar and order will be delivered on selected"
+                }
+            },
+            "adress": {
+                "title": "Address",
+                "opt1": {
+                    "title": "Home",
+                    "content": "Kost Putri 18"
+                },
+                "opt2": {
+                    "title": "Work",
+                    "content": "Student Collage"
+                },
+                "opt3": {
+                    "title": "Other",
+                    "content": "Female"
+                }
+            },
+            "payment": {
+                "title": "Payment",
+                "saveCard": "Save this card details"
+            },
+            "success": {
+                "title": "Success",
+                "message": "Payment Successful"
+            },
+            "buttonText": "Continue",
+            "button2Text": "Cancel"
+        }
+    },
+    "favorites": {
+        "topTitle": "Favorites",
+        "emptyTitle": "Empty Favorite",
+        "alert": {
+            "title": "Delete Confirmation",
+            "content": "Are you sure you want to delete this product?",
+            "buttonText": "Delete",
+            "button2Text": "Cancel"
+        }
+    },
+    "account": {
+        "topTitle": "Account",
+        "demoUser": "Demo User",
+        "demoMail": "demo_user@gmail.com",
+        "action": {
+            "editProfile": {
+                "title": "Edit Profile",
+                "buttonText": "Save",
+                "tfieldEmailHint": "Enter email",
+                "tfieldPassHint": "Enter password",
+                "tfieldPass2Hint": "Enter password again"
+            },
+            "shipping": "Shipping Adress",
+            "order": "Order History",
+            "trackOrder": {
+                "title": "Track Order",
+                "emptyTitle": "No Order"
+            },
+            "cards": {
+                "title": "Cards",
+                "buttonText": "NEW",
+                "editCard": {
+                    "title": "Edit Card",
+                    "buttonText": "Save",
+                    "button2Text": "Cancel",
+                    "tfieldCardNoHint": "Card Number",
+                    "tfieldDateHint": "Expired Date",
+                    "tfieldCVVHint": "CVV",
+                    "tfieldCardHolderHint": "Card Holder"
+                }
+            },
+            "about": "About",
+            "appSet": {
+                "title": "Settings",
+                "viewOption": {
+                    "title": "View",
+                    "language": "Language",
+                    "darkMode": "Dark Mode",
+                    "lightMode": "Light Mode"
+                },
+                "security": {
+                    "title": "Security",
+                    "changePass": "Change Password",
+                    "fingerprint": "Use Fingerprint"
+                },
+                "other": {
+                    "title": "Other",
+                    "versionControl": "Application Version Control",
+                    "manageAccount": "Manage Account",
+                    "about": "valshop"
+                },
+                "policies": {
+                    "title": "Policies",
+                    "priAndpol": "Privacy & Policy",
+                    "terms": "Terms of Service",
+                    "help": "Help & Feedback"
+                },
+            "logout": "Log Out"
+        }
+    }
+    }
+}
